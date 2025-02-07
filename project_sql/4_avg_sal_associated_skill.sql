@@ -24,11 +24,11 @@ Breakdown of the results for top paying skills is
     -Top skills are commanded by analysts in Big Data Tech(PySpark, Couchbase)
     -ML Tools(DataRobot, Jupyter), and Python libraries(Pandas, NumPy)
 -Software development and deployment proficiency: 
-    -Knowledge in development and deployment tools(GitLab, Kubernetes, Airflow)
+    Knowledge in development and deployment tools(GitLab, Kubernetes, Airflow)
     indicates a crossover between data analysis and engineering, with skills
     facilitating automation and efficient data pipeline management.
 -Cloud computing expertise:
-    -Fimiliarity with cloud and data engineering tools(Elastisearch. Databricks, GCP)
+    Fimiliarity with cloud and data engineering tools(Elastisearch, Databricks, GCP)
     shows growing importance of cloud-based analytics environments, suggesting that cloud
     proficiency significantly boosts earning potential in data analytics.
 
